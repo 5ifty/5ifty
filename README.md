@@ -17,5 +17,17 @@ Here are some ideas to get you started:
 ### Welcome to my profile! 
 
 ### &#128172; About me:
+My names Harry, I mainly use python for my personal projects, but also have a background in HTML, CSS and a bit of Js
+My main areas of focus is backend development and data-handling which you can see within my CSGO API Handler and other upcoming projects.
+
+Some of my main projects include: Raccoonbot.py which I have now made open source for everyone to look at and host locally if they please.
+
+🔭 I’m currently working on making a portfolio website to showcase my abilities
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ifty&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ifty)
+
+
+### &#128075; Contact me:
+
