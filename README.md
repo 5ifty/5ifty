@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/5ifty/5ifty/blob/main/assets/header.gif "Header")]
+![Header](https://github.com/5ifty/5ifty/blob/main/assets/header.gif "Header")
 <!--
 **5ifty/5ifty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
