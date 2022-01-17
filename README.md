@@ -30,7 +30,10 @@ Some of my main projects include: Raccoonbot.py which I have now made open sourc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ifty)
 
 
+Check out my [Stack Overflow](https://stackoverflow.com/users/15440841/harry)
+
+
 ### &#128075; Contact me:
 ![Image](https://github.com/5ifty/5ifty/blob/main/assets/emailicon.png)[Email](mailto:5iftyenquiries@gmail.com)
 
-![Image](https://github.com/5ifty/5ifty/blob/main/assets/resized-image-Promo.jpeg)Stack Overflow
+
